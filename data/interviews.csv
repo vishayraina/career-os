@@ -1,2 +1,0 @@
-id,opportunity_id,date,round,outcome,topics,weaknesses,learnings,surprises,confidence_before,confidence_after,notes
-int_001,opp_008,2026-10-02,Technical Screen,Passed,"Distributed streaming inference, GPU memory hierarchy",Slight delay explaining ring-buffer audio chunking under burst loads,Be crisp about thread pool vs async event loop trade-offs early in design rounds,Asked specifically about photolithography data pipeline latency,3,4,

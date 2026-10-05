@@ -1,3 +1,0 @@
-# Progressive Interviews & Debrief Feedback Loop
-
-To prevent random interviewing and premature exhaustion of high-value opportunities, Career OS implements an explicit 7-stage interview progression ladder (`practice` → `low_stakes` → `moderate` → `target` → `stretch` → `foreign` → `labs`). Opportunity records capture desire, practice value, stakes (burn cost), and progression status. A dedicated RFC 4180 `interviews.csv` tracks round outcomes, topics, weaknesses, learnings, and confidence changes. Transparent rule-based heuristics recommend low-stakes confidence builders to take now while protecting high-stakes frontier targets until prerequisite interview reps and weakness remediation are validated, with full support for manual user overrides.
